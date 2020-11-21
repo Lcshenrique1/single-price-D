@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+body{
+	
+	background-color: #f0f0f0;
+	font-family: 'Karla', sans-serif;
+	box-sizing: border-box;
+}
+.geral{
+	width: 750px;
+	height: 465px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+
+.conteiner{
+	
+	width: 625px;
+	height: 216px;
+	background-color: #FFFFFF;
+	border-radius: 10px 10px 0px 0px;
+	padding: 15px 30px;
+	box-shadow: 2px 0px 5px 0px #A9BCF5;
+}
+
+.conteiner p{
+	color: #78c7c8;
+	font-size: 22px;
+	
+}
+.conteiner h3{
+	color: #cada7c;
+	
+	
+}
+
+.conteiner span{
+	color: #c6c9d0;
+	
+}
+
+
+.conteiner2{
+	
+	width: 300px;
+	height: 205px;
+	background-color: #2bb3b1;
+	float: left;
+	border-radius: 0px 0px 0px 10px;
+	padding: 30px 0px 20px 40px;
+
+	
+}
+p.small {
+  line-height: 0.2;
+  color: #A9E2F3;
+}
+
+.conteiner2 h2{
+	color:  #58c9c7;
+	font-size: 16px
+	
+}
+.conteiner2 h3{
+	color: #ffffff;
+	font-size: 20px
+	
+}
+
+.conteiner2 span{
+	color: #ffffff;
+	font-size: 30px;
+}
+
+.conteiner2 h4{
+	color: #dedfe7;
+	font-size: 15px;
+}
+
+input {
+	background-color: #bfdf32;
+	width: 235px;
+	height: 48px;
+	border: 0px solid;
+	border-radius: 5px;
+	float: center;
+	color: #ffffff;
+
+}
+
+.conteiner3{
+	
+	width: 305px;
+	height: 205px;
+	background-color: #4abebd;
+	float: left;
+	border-radius: 0px 0px 10px 0px;
+	padding: 0px;
+	box-shadow: 2px 0px 0px 0px #A9BCF5;
+	padding: 30px 0px 20px 40px;
+
+
+	
+}
+
+
+.conteiner3 h5{
+	color: #ffffff;
+	
+
+}
+.conteiner3 h4{
+	color: #ffffff;
+	
+}
+
+
+footer{
+   
+   
+}
+@media only screen and (max-width: 700px){
+     .geral{
+     	width: 375px;
+		height: 465px;
+		margin: 0 auto;
+		margin-top: 30px;
+ 	}
+ }
+
+@media only screen and (max-width: 700px){
+     .conteiner{
+ 	  width: 315px;
+ 	  height: 265px;
+ 	  border-radius: 5px 5px 0px 0px;
+ 	  box-shadow: 0px 0px 0px 0px;
+ 	  padding: 10px 0px 0px 15px;
+
+
+ 	}
+ }
+
+@media only screen and (max-width: 700px){
+ 	 .conteiner2{
+ 	  width: 300px;
+ 	  height: 230px;
+ 	  border-radius: 0px 0px 0px 0px;
+ 	  box-shadow: 0px 0px 0px 0px;
+ 	  padding: 10px 0px 0px 30px;
+
+ 	}
+ }
+ @media only screen and (max-width: 700px){
+    .conteiner3{
+ 	  width: 305px;
+ 	  height: 228px;
+ 	  border-radius: 0px 0px 5px 5px;
+ 	  box-shadow: 0px 0px 0px 0px;
+ 	   padding: 10px 0px 0px 25px;
+ 	}
+}
+ 
